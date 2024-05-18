@@ -74,6 +74,7 @@ There are some similar repositories available, but it appears that they have not
   - keyword: supervised homography estimation;
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) Depth-aware multi-grid deep homography estimation with contextual correlation, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9605632&casa_token=lop5MaMA40cAAAAA:ypyRTM-TzDD7-tVTJ7ndk0fT6zxNdmVvjtz4DD6uSrE-qjjagoEKdsy6NcRP49GGItZC_li5)] [[Code](https://github.com/nie-lang/Multi-Grid-Deep-Homography)]
 - Deep Homography Estimation based on Attention Mechanism, `ICSAI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664027)]
+- Perceptual loss for robust unsupervised homography estimation, `CVPRw`. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/IMW/papers/Koguciuk_Perceptual_Loss_for_Robust_Unsupervised_Homography_Estimation_CVPRW_2021_paper.pdf)]
 
 #### 2020
 
@@ -133,6 +134,7 @@ There are some similar repositories available, but it appears that they have not
 
 - Unsupervised Deep Plane-Aware Multi-homography Learning for Image Alignment, `CICAI`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-93046-2_45)]
 - **Localtrans**: A multiscale local transformer network for cross-resolution homography estimation, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shao_LocalTrans_A_Multiscale_Local_Transformer_Network_for_Cross-Resolution_Homography_Estimation_ICCV_2021_paper.pdf)]
+- Unsupervised deep image stitching: Reconstructing stitched features to images, `TIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9472883)]
 
 #### 2020
 
@@ -170,6 +172,7 @@ There are some similar repositories available, but it appears that they have not
 #### 2022
 
 - **SSORN**: Self-Supervised Outlier Removal Network for Robust Homography Estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/2208.14093)]
+- Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation, `Symposium on Applied Computing`. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045)]
 
 #### 2021
 
