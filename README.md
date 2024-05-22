@@ -143,6 +143,7 @@ There are some similar repositories available, but it appears that they have not
 - A view-free image stitching network based on global homography, `Journal of Visual Communication and Image Representation`. [[Paper](https://www.sciencedirect.com/science/article/pii/S1047320320301784?casa_token=j4oKVYUdERcAAAAA:NvpUUuh4sK_sfz2eaD8IcfwPcIzIMTkwAo0wDC6A90713r_DxxUnvKZfwhZx2C4U5nmQuR7XUg)] [[Code](https://github.com/nie-lang/DeepImageStitching-1.0)]
 - Learning edge-preserved image stitching from large-baseline deep homography, `arXiv`. [[Paper](https://arxiv.org/pdf/2012.06194)]
 - Warping Residual Based Image Stitching for Large Parallax, `CVPR`. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.pdf)]
+- Ransac-flow: generic two-stage image alignment, `ECCV`. [[Paper](https://par.nsf.gov/servlets/purl/10202962)] [[Website](https://imagine.enpc.fr/~shenx/RANSAC-Flow/)] [[Code](https://github.com/XiSHEN0220/RANSAC-Flow)]
 
 #### 2019
 
@@ -159,6 +160,11 @@ There are some similar repositories available, but it appears that they have not
 #### 2015
 
 - Rationalizing Efficient Compositional Image Alignment, `IJCV`. [[Paper](https://link.springer.com/article/10.1007/s11263-014-0769-6)]
+
+#### 2007
+
+- Image alignment and stitching: A tutorial, `Foundations and Trends® in Computer Graphics and Vision`. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=340fe67d687ddbaae5a7b9a0653e6ff99f340830)]
+
 
 ## Application
 
