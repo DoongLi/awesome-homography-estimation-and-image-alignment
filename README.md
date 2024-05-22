@@ -34,6 +34,7 @@ There are some similar repositories available, but it appears that they have not
 - Unsupervised Homography Estimation with Pixel-level SVDD, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10510339)]
 - **AbHE**: All Attention-Based Homography Estimation, `TIM`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472928)] [[Code](https://github.com/mingxiaohuo/ABHE)]
 - ![paper](https://img.shields.io/badge/Dataset-red) Analyzing the Domain Shift Immunity of Deep Homography Estimation, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shao_Analyzing_the_Domain_Shift_Immunity_of_Deep_Homography_Estimation_WACV_2024_paper.pdf)] [[Code](https://github.com/MingzhenShao/Homography_estimation)]
+- **MCNet**: Rethinking the Core Ingredients for  Accurate and Efficient Homography Estimation, `CVPR`. [[Paper](https://github.com/zjuzhk/MCNet/blob/main/CVPR2024-MCNet.pdf)] [[Code](https://github.com/zjuzhk/MCNet)]
 
 #### 2023
 
