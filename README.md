@@ -171,6 +171,7 @@ There are some similar repositories available, but it appears that they have not
 #### 2024
 
 - Deep Homography Estimation for Visual Place Recognition, `AAAI`. [[Paper](https://arxiv.org/pdf/2402.16086v1)] [[Code](https://github.com/Lu-Feng/DHE-VPR)]
+- **STHN**: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `arXiv`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Code](https://github.com/arplaboratory/STHN)] [[Project_webiste](https://xjh19971.github.io/STHN/)]
 
 #### 2023
 
