@@ -161,6 +161,10 @@ There are some similar repositories available, but it appears that they have not
 
 - Rationalizing Efficient Compositional Image Alignment, `IJCV`. [[Paper](https://link.springer.com/article/10.1007/s11263-014-0769-6)]
 
+#### 2014
+
+- Parallax-tolerant Image Stitching, `CVPR`. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Zhang_Parallax-tolerant_Image_Stitching_2014_CVPR_paper.pdf)]
+
 #### 2007
 
 - Image alignment and stitching: A tutorial, `Foundations and Trends® in Computer Graphics and Vision`. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=340fe67d687ddbaae5a7b9a0653e6ff99f340830)]
