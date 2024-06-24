@@ -46,8 +46,6 @@ There are some similar repositories available, but it appears that they have not
   - keyword: realistic dataset generation;
 - ![paper](https://img.shields.io/badge/Dataset-red)![page](https://img.shields.io/badge/Pretrain-model-blue) Semi-supervised Deep Large-Baseline Homography Estimation with Progressive Equivalence Constraint, `AAAI`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/25183/24955)] [[Code](https://github.com/megvii-research/LBHomo)]
   - keyword: large baseline dataset;
-- ![page](https://img.shields.io/badge/Pretrain-model-blue) Supervised Homography Learning with Realistic Dataset Generation, `ICCV`. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Supervised_Homography_Learning_with_Realistic_Dataset_Generation_ICCV_2023_paper.pdf)] [[Code](https://github.com/JianghaiSCU/RealSH)]
-  - keyword: realistic dataset generation;
 - Exploring Progressive Hybrid-Degraded Image Processing for Homography Estimation, `ICASSP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096730&casa_token=fMSrZF-OOuIAAAAA:i24gOQjdCdsf22y-cQEwCmlNa84s0gXE2-lfWHEbxUnj1L6n_jKyu2EiHUr_rvqESRrH36Of&tag=1)]
 - Recurrent homography estimation using homography-guided image warping and focus transformer,  `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.pdf)] [[Code](https://github.com/imdumpl78/RHWF)]
 - Bilevel Progressive Homography Estimation Via Correlative Region-Focused Transformer, `SSRN`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4625861)]
