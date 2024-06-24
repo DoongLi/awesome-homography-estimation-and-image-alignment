@@ -99,7 +99,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2017
 
-- Homography estimation from image pairs with hierarchical convolutional networks, `ICCV`. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.pdf)]
+- Homography estimation from image pairs with hierarchical convolutional networks, `ICCVw`. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Nowruzi_Homography_Estimation_From_ICCV_2017_paper.pdf)]
 
 #### 2016
 
