@@ -119,6 +119,7 @@ There are some similar repositories available, but it appears that they have not
 #### 2024
 
 - **MGHE-Net**: A Transformer-Based Multi-Grid Homography Estimation Network for Image Stitching, `Access`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489948)]
+- Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.19922)]
 
 #### 2023
 
