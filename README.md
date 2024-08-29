@@ -26,6 +26,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2024
 
+- ![paper](https://img.shields.io/badge/Dataset-red) UMAD: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Code](https://github.com/IMRL/UMAD)]
 - ![paper](https://img.shields.io/badge/Dataset-red)![page](https://img.shields.io/badge/Pretrain-model-blue) **DMHomo**: Learning Homography with Diffusion Model, `ToG`. [[Paper](https://dl.acm.org/doi/full/10.1145/3652207)] [[Code](https://github.com/lhaippp/DMHomo)]
   - keyword: realistic dataset generation, supervised homography estimation;
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) **CrossHomo**: Cross-Modality and Cross-Resolution Homography Estimation, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10438073&casa_token=92CU3CFbsXIAAAAA:DJN1QCKXfj7pFYlSD4sLh33HUtBQ-BjhiBBRtBtUbcEHjKnSyduvywgyYvAnI9UJW7MkOboG&tag=1)] [[Code](https://github.com/lep990816/CrossHomo)]
@@ -33,7 +34,7 @@ There are some similar repositories available, but it appears that they have not
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) **Gyroflow+**: Gyroscope-guided unsupervised deep homography and optical flow learning, `IJCV`. [[Paper](https://link.springer.com/article/10.1007/s11263-023-01978-5)] [[Code](https://github.com/lhaippp/GyroFlowPlus)]
 - Unsupervised Homography Estimation with Pixel-level SVDD, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10510339)]
 - **AbHE**: All Attention-Based Homography Estimation, `TIM`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472928)] [[Code](https://github.com/mingxiaohuo/ABHE)]
-- ![paper](https://img.shields.io/badge/Dataset-red) Analyzing the Domain Shift Immunity of Deep Homography Estimation, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Shao_Analyzing_the_Domain_Shift_Immunity_of_Deep_Homography_Estimation_WACV_2024_paper.pdf)] [[Code](https://github.com/MingzhenShao/Homography_estimation)]
+- ![paper](https://img.shields.io/badge/Dataset-red) Analyzing the Domain Shift Immunity of Deep Homography Estimation, `WACV`. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Shao_Analyzing_the_Domain_Shift_Immunity_of_Deep_Homography_Estimation_WACV_2024_paper.pdf)] [[Code](https://github.com/MingzhenShao/Homography_estimation)]
 - **MCNet**: Rethinking the Core Ingredients for  Accurate and Efficient Homography Estimation, `CVPR`. [[Paper](https://github.com/zjuzhk/MCNet/blob/main/CVPR2024-MCNet.pdf)] [[Code](https://github.com/zjuzhk/MCNet)]
 - **SCPNet**: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning, `ECCV`. [[Paper](https://arxiv.org/pdf/2407.08148)] [[Code](https://github.com/RM-Zhang/SCPNet)]
 - Deep Homography Estimation via Dense Scene Matching, `RAL`. [[Paper](https://ieeexplore.ieee.org/document/10592770/)]
