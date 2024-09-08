@@ -38,6 +38,7 @@ There are some similar repositories available, but it appears that they have not
 - **MCNet**: Rethinking the Core Ingredients for  Accurate and Efficient Homography Estimation, `CVPR`. [[Paper](https://github.com/zjuzhk/MCNet/blob/main/CVPR2024-MCNet.pdf)] [[Code](https://github.com/zjuzhk/MCNet)]
 - **SCPNet**: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning, `ECCV`. [[Paper](https://arxiv.org/pdf/2407.08148)] [[Code](https://github.com/RM-Zhang/SCPNet)]
 - Deep Homography Estimation via Dense Scene Matching, `RAL`. [[Paper](https://ieeexplore.ieee.org/document/10592770/)]
+- **STHN**: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `RAL`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Project](https://xjh19971.github.io/STHN/)]  [[Code](https://github.com/arplaboratory/STHN)]
 
 #### 2023
 
