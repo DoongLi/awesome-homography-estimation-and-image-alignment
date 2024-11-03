@@ -20,6 +20,8 @@ There are some similar repositories available, but it appears that they have not
 
 ## Homography Estimation
 
+Note: The focus here is primarily on homography estimation work specifically for image alignment tasks.
+
 #### Survey Paper
 
 - A Review of Homography Estimation: Advances and Challenges, `Electronics`, *2023*. [[Paper](https://www.mdpi.com/2079-9292/12/24/4977)]
