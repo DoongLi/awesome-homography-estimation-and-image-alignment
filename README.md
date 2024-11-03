@@ -42,6 +42,7 @@ Note: The focus here is primarily on homography estimation work specifically for
 - Deep Homography Estimation via Dense Scene Matching, `RAL`. [[Paper](https://ieeexplore.ieee.org/document/10592770/)]
 - **STHN**: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `RAL`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Project](https://xjh19971.github.io/STHN/)]  [[Code](https://github.com/arplaboratory/STHN)]
 - Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf)] [[Code](https://github.com/minshu-kim/Neural-Image-Stitching)]
+- Deep Unsupervised Homography Estimation for Single-Resolution Infrared and Visible Images Using GNN, `Electronics`, *2024*. [[Paper](https://www.mdpi.com/2079-9292/13/21/4173)]
 
 #### 2023
 
