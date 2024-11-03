@@ -25,6 +25,7 @@ Note: The focus here is primarily on homography estimation work specifically for
 #### Survey Paper
 
 - A Review of Homography Estimation: Advances and Challenges, `Electronics`, *2023*. [[Paper](https://www.mdpi.com/2079-9292/12/24/4977)]
+- Research on Homography Estimation Method Based on Deep Learning, `International Conference on Computational & Experimental Engineering and Sciences`, *2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-68775-4_46)]
 
 #### 2024
 
