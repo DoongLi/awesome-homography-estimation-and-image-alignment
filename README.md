@@ -2,6 +2,8 @@
 
 This repo contains a curative list of **homography estimation, image alignment and related application**.
 
+Note: It is worth noting that this repository only focuses on homography estimation methods used for image alignment tasks. Methods for solving pose using homography estimation, such as those on the HPatches benchmarks, are not covered in this repository.
+
 #### Please feel free to send me [pull requests](https://github.com/DoongLi/awesome-homography-estimation-and-image-alignment/blob/main/how-to-PR.md) or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
 
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others!
@@ -19,8 +21,6 @@ There are some similar repositories available, but it appears that they have not
     - [Application](#application)
 
 ## Homography Estimation
-
-Note: The focus here is primarily on homography estimation work specifically for image alignment tasks.
 
 #### Survey Paper
 
@@ -112,8 +112,7 @@ Note: The focus here is primarily on homography estimation work specifically for
 
 #### 2016
 
-- Deep image homography estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/1606.03798)] [[Unofficial_Code1](https://github.com/yishiliuhuasheng/deep_image_homography_estimation)] [[Unofficial_Code2](https://github.com/paeccher/Deep-Homography-Estimation-Pytorch)]
-  - Keyword: frist learning-based supervised homography estimation method; realistic dataset generation; 
+- Deep image homography estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/1606.03798)] [[Unofficial_Code1](https://github.com/yishiliuhuasheng/deep_image_homography_estimation)] [[Unofficial_Code2](https://github.com/paeccher/Deep-Homography-Estimation-Pytorch)] **Keyword**: first learning-based supervised homography estimation method, realistic dataset generation
 
 #### 2014
 
@@ -125,77 +124,36 @@ Note: The focus here is primarily on homography estimation work specifically for
 
 ## Image Alignment
 
-#### 2024
-
-- **MGHE-Net**: A Transformer-Based Multi-Grid Homography Estimation Network for Image Stitching, `Access`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489948)]
-- Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping, *arXiv*. [[Paper](https://arxiv.org/pdf/2406.19922)]
-
-#### 2023
-
-- **PRISE**: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PRISE_Demystifying_Deep_Lucas-Kanade_With_Strongly_Star-Convex_Constraints_for_Multimodel_CVPR_2023_paper.pdf)] [[Code](https://github.com/swiftzhang125/PRISE)]
-- Parallax-Tolerant Unsupervised Deep Image Stitching, `ICCV`. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Nie_Parallax-Tolerant_Unsupervised_Deep_Image_Stitching_ICCV_2023_paper.pdf)] [[Code](https://github.com/nie-lang/UDIS2)]
-
-#### 2022
-
-- Warped Convolutional Networks: Bridge Homography to sl(3) algebra by Group Convolution, `arXiv`. [[Paper](https://arxiv.org/pdf/2206.11657)]
-
-#### 2021
-
-- Unsupervised Deep Plane-Aware Multi-homography Learning for Image Alignment, `CICAI`. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-93046-2_45)]
-- **Localtrans**: A multiscale local transformer network for cross-resolution homography estimation, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Shao_LocalTrans_A_Multiscale_Local_Transformer_Network_for_Cross-Resolution_Homography_Estimation_ICCV_2021_paper.pdf)]
-- Unsupervised deep image stitching: Reconstructing stitched features to images, `TIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9472883)]
-
-#### 2020
-
-- Cross-Weather Image Alignment via Latent Generative Model With Intensity Consistency, `TIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9046236&casa_token=hVGip0b16QAAAAAA:6DucWFNMk96qPsGxf_B9l1dKctCyNB4LNtb1fjsdhInXR2w3MGS9WflinZCK8TlLTvQ2-Y0y)]
-- A view-free image stitching network based on global homography, `Journal of Visual Communication and Image Representation`. [[Paper](https://www.sciencedirect.com/science/article/pii/S1047320320301784?casa_token=j4oKVYUdERcAAAAA:NvpUUuh4sK_sfz2eaD8IcfwPcIzIMTkwAo0wDC6A90713r_DxxUnvKZfwhZx2C4U5nmQuR7XUg)] [[Code](https://github.com/nie-lang/DeepImageStitching-1.0)]
-- Learning edge-preserved image stitching from large-baseline deep homography, `arXiv`. [[Paper](https://arxiv.org/pdf/2012.06194)]
-- Warping Residual Based Image Stitching for Large Parallax, `CVPR`. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.pdf)]
-- Ransac-flow: generic two-stage image alignment, `ECCV`. [[Paper](https://par.nsf.gov/servlets/purl/10202962)] [[Website](https://imagine.enpc.fr/~shenx/RANSAC-Flow/)] [[Code](https://github.com/XiSHEN0220/RANSAC-Flow)]
-
-#### 2019
-
-- **DeepMeshFlow**: Content adaptive mesh deformation for robust image registration, `arXiv`. [[Paper](https://arxiv.org/pdf/1912.05131)]
-
-#### 2018
-
-- Multimodal image alignment through a multiscale chain of neural networks with application to re mote sensing, `ECCV`. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Armand_Zampieri_Multimodal_image_alignment_ECCV_2018_paper.pdf)]
-
-#### 2017
-
-- **CLKN**: Cascaded Lucas–Kanade networks for image alignment, `CVPR`. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chang_CLKN_Cascaded_Lucas-Kanade_CVPR_2017_paper.pdf)]
-
-#### 2015
-
-- Rationalizing Efficient Compositional Image Alignment, `IJCV`. [[Paper](https://link.springer.com/article/10.1007/s11263-014-0769-6)]
-
-#### 2014
-
-- Parallax-tolerant Image Stitching, `CVPR`. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Zhang_Parallax-tolerant_Image_Stitching_2014_CVPR_paper.pdf)]
-
-#### 2007
-
-- Image alignment and stitching: A tutorial, `Foundations and Trends® in Computer Graphics and Vision`. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=340fe67d687ddbaae5a7b9a0653e6ff99f340830)]
-
+| Date |                            Ref                             | Paper Title                                                  |    Type    | Code                                                         |
+| :--: | :--------------------------------------------------------: | :----------------------------------------------------------- | :--------: | ------------------------------------------------------------ |
+| 2024 |                          `Access`                          | [MGHE-Net: A Transformer-Based Multi-Grid Homography Estimation Network for Image Stitching](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489948) | Grid-based |                                                              |
+| 2024 |                          `arXiv`                           | [Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping](https://arxiv.org/pdf/2406.19922) |            |                                                              |
+| 2023 |                           `CVPR`                           | [PRISE: Demystifying Deep Lucas-Kanade with Strongly Star-Convex Constraints for Multimodel Image Alignment](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PRISE_Demystifying_Deep_Lucas-Kanade_With_Strongly_Star-Convex_Constraints_for_Multimodel_CVPR_2023_paper.pdf) | Flow-based | [Code](https://github.com/swiftzhang125/PRISE)               |
+| 2023 |                           `ICCV`                           | [Parallax-Tolerant Unsupervised Deep Image Stitching](https://openaccess.thecvf.com/content/ICCV2023/papers/Nie_Parallax-Tolerant_Unsupervised_Deep_Image_Stitching_ICCV_2023_paper.pdf) |            | [Code](https://github.com/nie-lang/UDIS2)                    |
+| 2022 |                          `arXiv`                           | [Warped Convolutional Networks: Bridge Homography to sl(3) algebra by Group Convolution](https://arxiv.org/pdf/2206.11657) |            |                                                              |
+| 2021 |                          `CICAI`                           | [Unsupervised Deep Plane-Aware Multi-homography Learning for Image Alignment](https://link.springer.com/chapter/10.1007/978-3-030-93046-2_45) |            |                                                              |
+| 2021 |                           `CVPR`                           | [Localtrans: A multiscale local transformer network for cross-resolution homography estimation](https://openaccess.thecvf.com/content/ICCV2021/papers/Shao_LocalTrans_A_Multiscale_Local_Transformer_Network_for_Cross-Resolution_Homography_Estimation_ICCV_2021_paper.pdf) |            |                                                              |
+| 2021 |                           `TIP`                            | [Unsupervised deep image stitching: Reconstructing stitched features to images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9472883) |            |                                                              |
+| 2020 |                           `TIP`                            | [Cross-Weather Image Alignment via Latent Generative Model With Intensity Consistency](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9046236&casa_token=hVGip0b16QAAAAAA:6DucWFNMk96qPsGxf_B9l1dKctCyNB4LNtb1fjsdhInXR2w3MGS9WflinZCK8TlLTvQ2-Y0y) |            |                                                              |
+| 2020 | `Journal of Visual Communication and Image Representation` | [A view-free image stitching network based on global homography](https://www.sciencedirect.com/science/article/pii/S1047320320301784?casa_token=j4oKVYUdERcAAAAA:NvpUUuh4sK_sfz2eaD8IcfwPcIzIMTkwAo0wDC6A90713r_DxxUnvKZfwhZx2C4U5nmQuR7XUg) |            | [Code](https://github.com/nie-lang/DeepImageStitching-1.0)   |
+| 2020 |                          `arXiv`                           | [Learning edge-preserved image stitching from large-baseline deep homography](https://arxiv.org/pdf/2012.06194) |            |                                                              |
+| 2020 |                           `CVPR`                           | [Warping Residual Based Image Stitching for Large Parallax](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Warping_Residual_Based_Image_Stitching_for_Large_Parallax_CVPR_2020_paper.pdf) |            |                                                              |
+| 2020 |                           `ECCV`                           | [Ransac-flow: generic two-stage image alignment](https://par.nsf.gov/servlets/purl/10202962) | Flow-based | [Code](https://github.com/XiSHEN0220/RANSAC-Flow) [Project](https://imagine.enpc.fr/~shenx/RANSAC-Flow/) |
+| 2019 |                          `arXiv`                           | [DeepMeshFlow: Content adaptive mesh deformation for robust image registration](https://arxiv.org/pdf/1912.05131) | Grid-based |                                                              |
+| 2018 |                           `ECCV`                           | [Multimodal image alignment through a multiscale chain of neural networks with application to re mote sensing](https://openaccess.thecvf.com/content_ECCV_2018/papers/Armand_Zampieri_Multimodal_image_alignment_ECCV_2018_paper.pdf) |            |                                                              |
+| 2017 |                           `CVPR`                           | [CLKN: Cascaded Lucas–Kanade networks for image alignment](https://openaccess.thecvf.com/content_cvpr_2017/papers/Chang_CLKN_Cascaded_Lucas-Kanade_CVPR_2017_paper.pdf) |            |                                                              |
+| 2015 |                           `IJCV`                           | [Rationalizing Efficient Compositional Image Alignment](https://link.springer.com/article/10.1007/s11263-014-0769-6) |            |                                                              |
+| 2014 |                           `CVPR`                           | [Parallax-tolerant Image Stitching](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Zhang_Parallax-tolerant_Image_Stitching_2014_CVPR_paper.pdf) |            |                                                              |
+| 2007 | `Foundations and Trends® in Computer Graphics and Vision`  | [Image alignment and stitching: A tutorial](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=340fe67d687ddbaae5a7b9a0653e6ff99f340830) |  Tutorial  |                                                              |
 
 ## Application
 
-#### 2024
-
-- Deep Homography Estimation for Visual Place Recognition, `AAAI`. [[Paper](https://arxiv.org/pdf/2402.16086v1)] [[Code](https://github.com/Lu-Feng/DHE-VPR)]
-- **STHN**: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `arXiv`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Code](https://github.com/arplaboratory/STHN)] [[Project_webiste](https://xjh19971.github.io/STHN/)]
-
-#### 2023
-
-- Homography Estimation for Camera Calibration in Complex Topological Scenes, `IV`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10186786)]
-
-#### 2022
-
-- **SSORN**: Self-Supervised Outlier Removal Network for Robust Homography Estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/2208.14093)]
-- Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation, `Symposium on Applied Computing`. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045)]
-
-#### 2021
-
-- **Weather GAN**: Multi-Domain Weather Translation Using Generative Adversarial Networks, `arXiv`. [[Paper](https://arxiv.org/pdf/2103.05422)] [[Code]()]
-- Deep homography for efficient stereo image compression, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf)] [[Code](https://github.com/ywz978020607/HESIC)]
-
+| Date |               Ref                | Paper Title                                                  |                             Code                             |
+| :--: | :------------------------------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| 2024 |              `AAAI`              | [Deep Homography Estimation for Visual Place Recognition](https://arxiv.org/pdf/2402.16086v1) |          [Code](https://github.com/Lu-Feng/DHE-VPR)          |
+| 2024 |             `arXiv`              | [STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery](https://arxiv.org/pdf/2405.20470) | [Code](https://github.com/arplaboratory/STHN) [Project](https://xjh19971.github.io/STHN/) |
+| 2023 |               `IV`               | [Homography Estimation for Camera Calibration in Complex Topological Scenes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10186786) |                                                              |
+| 2022 |              arXiv               | [SSORN: Self-Supervised Outlier Removal Network for Robust Homography Estimation](https://arxiv.org/pdf/2208.14093) |                                                              |
+| 2022 | `Symposium on Applied Computing` | [Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045) |                                                              |
+| 2021 |             `arXiv`              | [Weather GAN: Multi-Domain Weather Translation Using Generative Adversarial Networks](https://arxiv.org/pdf/2103.05422) |                                                              |
+| 2021 |              `CVPR`              | [Deep homography for efficient stereo image compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf) |        [Code](https://github.com/ywz978020607/HESIC)         |
