@@ -64,6 +64,7 @@ There are some similar repositories available, but it appears that they have not
 - Mask-Homo: Pseudo Plane Mask-Guided Unsupervised Multi-Homography Estimation, `AAAI`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28379)] [[Code](https://github.com/SAITPublic/MaskHomo)]
 - Unsupervised deep homography with multi‐scale global attention, `IET Image Processing`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12842)]
 - Homography Estimation in Complex Topological Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2308.01086)]
+- Infrared and Visible Image Homography Estimation Based on Feature Correlation Transformers for Enhanced 6G Space–Air–Ground Integrated Network Perception, `Remote Sensing`. [[Paper](https://www.mdpi.com/2072-4292/15/14/3535)]
 
 #### 2022
 
