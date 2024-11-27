@@ -1,8 +1,8 @@
 # awesome-homography-estimation-and-image-alignment[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo contains a curative list of **homography estimation, image alignment and related application**.
+This repo contains a curative list of **homography estimation, image alignment and related application**. 
 
-[Note: It is worth noting that this repository only focuses on homography estimation methods used for image alignment tasks. Methods for solving pose using homography estimation, such as those on the HPatches benchmarks, are not covered in this repository.](https://github.com/DoongLi/awesome-homography-estimation-and-image-alignment)
+> Note: It is worth noting that this repository only focuses on homography estimation methods used for image alignment tasks. Methods for solving poses using homography estimation, such as those on the HPatches benchmarks, are not covered in this repository.
 
 #### Please feel free to send me [pull requests](https://github.com/DoongLi/awesome-homography-estimation-and-image-alignment/blob/main/how-to-PR.md) or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
 
