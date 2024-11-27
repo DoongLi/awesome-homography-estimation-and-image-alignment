@@ -62,6 +62,7 @@ There are some similar repositories available, but it appears that they have not
 - Mask-Homo: Pseudo Plane Mask-Guided Unsupervised Multi-Homography Estimation, `AAAI`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28379)] [[Code](https://github.com/SAITPublic/MaskHomo)]
 - Unsupervised deep homography with multi‐scale global attention, `IET Image Processing`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12842)]
 - Homography Estimation in Complex Topological Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2308.01086)]
+- GFNet: Homography Estimation via Grid Flow Regression, `arXiv`. [[Paper](https://openreview.net/pdf?id=DsW4boRh8H)]
 
 #### 2022
 
