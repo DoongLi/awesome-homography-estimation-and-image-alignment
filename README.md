@@ -56,9 +56,9 @@ There are some similar repositories available, but it appears that they have not
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) Unsupervised Global and Local Homography Estimation with Motion Basis Learning, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9956874&casa_token=-Tp9JpW764gAAAAA:NkiBmmnJ3WHrxXjm5DeEFFXna8haxfiG52I5pWptORdbvSeU2vVZtDl8Y95jbkiIJYnSk2ql)] [[Code](https://github.com/megvii-research/BasesHomo)]
   - keyword: unsupervised homography estimation
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) Supervised Homography Learning with Realistic Dataset Generation, `ICCV`. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Supervised_Homography_Learning_with_Realistic_Dataset_Generation_ICCV_2023_paper.pdf)] [[Code](https://github.com/JianghaiSCU/RealSH)]
-  - keyword: realistic dataset generation;
+  - keyword: realistic dataset generation
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) Semi-supervised Deep Large-Baseline Homography Estimation with Progressive Equivalence Constraint, `AAAI`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/25183/24955)] [[Code](https://github.com/megvii-research/LBHomo)]
-  - keyword: large baseline dataset;
+  - keyword: large baseline dataset
 - Exploring Progressive Hybrid-Degraded Image Processing for Homography Estimation, `ICASSP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096730&casa_token=fMSrZF-OOuIAAAAA:i24gOQjdCdsf22y-cQEwCmlNa84s0gXE2-lfWHEbxUnj1L6n_jKyu2EiHUr_rvqESRrH36Of&tag=1)]
 - Recurrent homography estimation using homography-guided image warping and focus transformer,  `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Recurrent_Homography_Estimation_Using_Homography-Guided_Image_Warping_and_Focus_Transformer_CVPR_2023_paper.pdf)] [[Code](https://github.com/imdumpl78/RHWF)]
 - Bilevel Progressive Homography Estimation Via Correlative Region-Focused Transformer, `SSRN`. [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4625861)]
@@ -72,9 +72,9 @@ There are some similar repositories available, but it appears that they have not
 
 - Iterative deep homography estimation, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cao_Iterative_Deep_Homography_Estimation_CVPR_2022_paper.pdf)] [[Code](https://github.com/imdumpl78/IHN)]
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) Unsupervised Homography Estimation with Coplanarity-Aware GAN, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Unsupervised_Homography_Estimation_With_Coplanarity-Aware_GAN_CVPR_2022_paper.pdf)] [[Code](https://github.com/megvii-research/HomoGAN)]
-  - keyword: unsupervised homography estimation;
+  - keyword: unsupervised homography estimation
 - Content-Aware Unsupervised Deep Homography Estimation and its Extensions, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9771389&casa_token=djckIfXYqkwAAAAA:JMgJoTIIS3fdc6yhjrOIhyepJpqHNZSfpa81XQbCeW4oMvV9Mm38ayLqklpdrQcWvcL2Dy7O)]
-  - Keyword: journal version;
+  - Keyword: journal version
 - Learning to Generate High-Quality Images for Homography Estimation, `ICIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9897392&casa_token=LceLhra9-rwAAAAA:U7AQQhZcjLNM4ZMqsnAGfxv_iXNA6v9Ghof4dfBWNMTrWFQV9zYQxK3OmmdFj4kadzAE1Rxl)]
 - Detail-Aware Deep Homography Estimation for Infrared and Visible Image, `Electronics`. [[Paper](https://www.mdpi.com/2079-9292/11/24/4185)]
 - Towards a unified approach to homography estimation using image features and pixel intensities, `arXiv`. [[Paper](https://arxiv.org/pdf/2202.09716)]
@@ -82,9 +82,9 @@ There are some similar repositories available, but it appears that they have not
 #### 2021
 
 - Motion Basis Learning for Unsupervised Deep Homography Estimation with Subspace Projection, `ICCV`. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ye_Motion_Basis_Learning_for_Unsupervised_Deep_Homography_Estimation_With_Subspace_ICCV_2021_paper.pdf)] [[Code](https://github.com/megvii-research/BasesHomo)]
-  - keyword: unsupervised homography estimation;
+  - keyword: unsupervised homography estimation
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) Deep Lucas-Kanade Homography for Multimodal Image Alignment, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Deep_Lucas-Kanade_Homography_for_Multimodal_Image_Alignment_CVPR_2021_paper.pdf)] [[Code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography)]
-  - keyword: supervised homography estimation;
+  - keyword: supervised homography estimation
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) Depth-aware multi-grid deep homography estimation with contextual correlation, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9605632&casa_token=lop5MaMA40cAAAAA:ypyRTM-TzDD7-tVTJ7ndk0fT6zxNdmVvjtz4DD6uSrE-qjjagoEKdsy6NcRP49GGItZC_li5)] [[Code](https://github.com/nie-lang/Multi-Grid-Deep-Homography)]
 - Deep Homography Estimation based on Attention Mechanism, `ICSAI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664027)]
 - Perceptual loss for robust unsupervised homography estimation, `CVPRw`. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/IMW/papers/Koguciuk_Perceptual_Loss_for_Robust_Unsupervised_Homography_Estimation_CVPRW_2021_paper.pdf)]
