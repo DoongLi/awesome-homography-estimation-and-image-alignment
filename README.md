@@ -44,6 +44,8 @@ There are some similar repositories available, but it appears that they have not
 - STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `RAL`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Project](https://xjh19971.github.io/STHN/)]  [[Code](https://github.com/arplaboratory/STHN)]
 - Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf)] [[Code](https://github.com/minshu-kim/Neural-Image-Stitching)]
 - Deep Unsupervised Homography Estimation for Single-Resolution Infrared and Visible Images Using GNN, `Electronics`, *2024*. [[Paper](https://www.mdpi.com/2079-9292/13/21/4173)]
+- GFNet: Homography Estimation via Grid Flow Regression, `arXiv`. [[Paper](https://openreview.net/pdf?id=DsW4boRh8H)]
+- Homography Estimation with Adaptive Query Transformer and Gated Interaction Module, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10758195)]
 
 #### 2023
 
@@ -62,7 +64,6 @@ There are some similar repositories available, but it appears that they have not
 - Mask-Homo: Pseudo Plane Mask-Guided Unsupervised Multi-Homography Estimation, `AAAI`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28379)] [[Code](https://github.com/SAITPublic/MaskHomo)]
 - Unsupervised deep homography with multi‐scale global attention, `IET Image Processing`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12842)]
 - Homography Estimation in Complex Topological Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2308.01086)]
-- GFNet: Homography Estimation via Grid Flow Regression, `arXiv`. [[Paper](https://openreview.net/pdf?id=DsW4boRh8H)]
 
 #### 2022
 
