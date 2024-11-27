@@ -29,7 +29,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2024
 
-- ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) DMHomo: Learning Homography with Diffusion Model, `ToG`. [[Paper](https://dl.acm.org/doi/full/10.1145/3652207)] [[Code](https://github.com/lhaippp/DMHomo)]
+- ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) DMHomo: Learning Homography with Diffusion Models, `ToG`. [[Paper](https://dl.acm.org/doi/full/10.1145/3652207)] [[Code](https://github.com/lhaippp/DMHomo)]
   - keyword: realistic dataset generation, supervised homography estimation
 - ![paper](https://img.shields.io/badge/Dataset-red) UMAD: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Code](https://github.com/IMRL/UMAD)]
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) CrossHomo: Cross-Modality and Cross-Resolution Homography Estimation, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10438073&casa_token=92CU3CFbsXIAAAAA:DJN1QCKXfj7pFYlSD4sLh33HUtBQ-BjhiBBRtBtUbcEHjKnSyduvywgyYvAnI9UJW7MkOboG&tag=1)] [[Code](https://github.com/lep990816/CrossHomo)]
@@ -46,6 +46,7 @@ There are some similar repositories available, but it appears that they have not
 - Deep Unsupervised Homography Estimation for Single-Resolution Infrared and Visible Images Using GNN, `Electronics`, *2024*. [[Paper](https://www.mdpi.com/2079-9292/13/21/4173)]
 - GFNet: Homography Estimation via Grid Flow Regression, `arXiv`. [[Paper](https://openreview.net/pdf?id=DsW4boRh8H)]
 - Homography Estimation with Adaptive Query Transformer and Gated Interaction Module, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10758195)]
+- A method of UAV image homography matrix estimation based on deep learning, `ICDIP`. [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13274/132740N/A-method-of-UAV-image-homography-matrix-estimation-based-on/10.1117/12.3037062.short)]
 
 #### 2023
 
