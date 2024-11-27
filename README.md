@@ -47,6 +47,7 @@ There are some similar repositories available, but it appears that they have not
 - GFNet: Homography Estimation via Grid Flow Regression, `arXiv`. [[Paper](https://openreview.net/pdf?id=DsW4boRh8H)]
 - Homography Estimation with Adaptive Query Transformer and Gated Interaction Module, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10758195)]
 - A method of UAV image homography matrix estimation based on deep learning, `ICDIP`. [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13274/132740N/A-method-of-UAV-image-homography-matrix-estimation-based-on/10.1117/12.3037062.short)]
+- Image Registration Algorithm for Stamping Process Monitoring Based on Improved Unsupervised Homography Estimation, `Applied Sciences`. [[Paper](https://www.mdpi.com/2076-3417/14/17/7721)]
 
 #### 2023
 
