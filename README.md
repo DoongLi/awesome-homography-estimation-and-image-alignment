@@ -2,7 +2,7 @@
 
 This repo contains a curative list of **homography estimation, image alignment and related application**.
 
-Note: It is worth noting that this repository only focuses on homography estimation methods used for image alignment tasks. Methods for solving pose using homography estimation, such as those on the HPatches benchmarks, are not covered in this repository.
+[Note: It is worth noting that this repository only focuses on homography estimation methods used for image alignment tasks. Methods for solving pose using homography estimation, such as those on the HPatches benchmarks, are not covered in this repository.](https://github.com/DoongLi/awesome-homography-estimation-and-image-alignment)
 
 #### Please feel free to send me [pull requests](https://github.com/DoongLi/awesome-homography-estimation-and-image-alignment/blob/main/how-to-PR.md) or [email](mailto:lidong8421bcd@gmail.com) to add papers! <br>
 
@@ -29,28 +29,28 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2024
 
+- ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) DMHomo: Learning Homography with Diffusion Model, `ToG`. [[Paper](https://dl.acm.org/doi/full/10.1145/3652207)] [[Code](https://github.com/lhaippp/DMHomo)]
+  - keyword: realistic dataset generation, supervised homography estimation
 - ![paper](https://img.shields.io/badge/Dataset-red) UMAD: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Code](https://github.com/IMRL/UMAD)]
-- ![paper](https://img.shields.io/badge/Dataset-red)![page](https://img.shields.io/badge/Pretrain-model-blue) **DMHomo**: Learning Homography with Diffusion Model, `ToG`. [[Paper](https://dl.acm.org/doi/full/10.1145/3652207)] [[Code](https://github.com/lhaippp/DMHomo)]
-  - keyword: realistic dataset generation, supervised homography estimation;
-- ![page](https://img.shields.io/badge/Pretrain-model-blue) **CrossHomo**: Cross-Modality and Cross-Resolution Homography Estimation, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10438073&casa_token=92CU3CFbsXIAAAAA:DJN1QCKXfj7pFYlSD4sLh33HUtBQ-BjhiBBRtBtUbcEHjKnSyduvywgyYvAnI9UJW7MkOboG&tag=1)] [[Code](https://github.com/lep990816/CrossHomo)]
-  - keyword: cross-modality images, cross-resolution images;
-- ![page](https://img.shields.io/badge/Pretrain-model-blue) **Gyroflow+**: Gyroscope-guided unsupervised deep homography and optical flow learning, `IJCV`. [[Paper](https://link.springer.com/article/10.1007/s11263-023-01978-5)] [[Code](https://github.com/lhaippp/GyroFlowPlus)]
+- ![page](https://img.shields.io/badge/Pretrain-model-blue) CrossHomo: Cross-Modality and Cross-Resolution Homography Estimation, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10438073&casa_token=92CU3CFbsXIAAAAA:DJN1QCKXfj7pFYlSD4sLh33HUtBQ-BjhiBBRtBtUbcEHjKnSyduvywgyYvAnI9UJW7MkOboG&tag=1)] [[Code](https://github.com/lep990816/CrossHomo)]
+  - keyword: cross-modality images, cross-resolution images
+- ![page](https://img.shields.io/badge/Pretrain-model-blue) Gyroflow+: Gyroscope-guided unsupervised deep homography and optical flow learning, `IJCV`. [[Paper](https://link.springer.com/article/10.1007/s11263-023-01978-5)] [[Code](https://github.com/lhaippp/GyroFlowPlus)]
 - Unsupervised Homography Estimation with Pixel-level SVDD, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10510339)]
-- **AbHE**: All Attention-Based Homography Estimation, `TIM`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472928)] [[Code](https://github.com/mingxiaohuo/ABHE)]
+- AbHE: All Attention-Based Homography Estimation, `TIM`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472928)] [[Code](https://github.com/mingxiaohuo/ABHE)]
 - ![paper](https://img.shields.io/badge/Dataset-red) Analyzing the Domain Shift Immunity of Deep Homography Estimation, `WACV`. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Shao_Analyzing_the_Domain_Shift_Immunity_of_Deep_Homography_Estimation_WACV_2024_paper.pdf)] [[Code](https://github.com/MingzhenShao/Homography_estimation)]
-- **MCNet**: Rethinking the Core Ingredients for  Accurate and Efficient Homography Estimation, `CVPR`. [[Paper](https://github.com/zjuzhk/MCNet/blob/main/CVPR2024-MCNet.pdf)] [[Code](https://github.com/zjuzhk/MCNet)]
-- **SCPNet**: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning, `ECCV`. [[Paper](https://arxiv.org/pdf/2407.08148)] [[Code](https://github.com/RM-Zhang/SCPNet)]
+- MCNet: Rethinking the Core Ingredients for  Accurate and Efficient Homography Estimation, `CVPR`. [[Paper](https://github.com/zjuzhk/MCNet/blob/main/CVPR2024-MCNet.pdf)] [[Code](https://github.com/zjuzhk/MCNet)]
+- SCPNet: Unsupervised Cross-modal Homography Estimation via Intra-modal Self-supervised Learning, `ECCV`. [[Paper](https://arxiv.org/pdf/2407.08148)] [[Code](https://github.com/RM-Zhang/SCPNet)]
 - Deep Homography Estimation via Dense Scene Matching, `RAL`. [[Paper](https://ieeexplore.ieee.org/document/10592770/)]
-- **STHN**: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `RAL`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Project](https://xjh19971.github.io/STHN/)]  [[Code](https://github.com/arplaboratory/STHN)]
+- STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery, `RAL`. [[Paper](https://arxiv.org/pdf/2405.20470)] [[Project](https://xjh19971.github.io/STHN/)]  [[Code](https://github.com/arplaboratory/STHN)]
 - Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf)] [[Code](https://github.com/minshu-kim/Neural-Image-Stitching)]
 - Deep Unsupervised Homography Estimation for Single-Resolution Infrared and Visible Images Using GNN, `Electronics`, *2024*. [[Paper](https://www.mdpi.com/2079-9292/13/21/4173)]
 
 #### 2023
 
 - Edge-aware Correlation Learning for Unsupervised Progressive Homography Estimation, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10314523&casa_token=86gKd0-dQBUAAAAA:VJbu9XBitO-BQPYhu2uwW0FI5EMaH2YshfkBnuoHC4jtkCWN8jFEFm2A2Y_Bd5-DU0SChWJP)]
-  - keyword: unsupervised homography estimation;
+  - keyword: unsupervised homography estimation
 - ![page](https://img.shields.io/badge/Pretrain-model-blue) Unsupervised Global and Local Homography Estimation with Motion Basis Learning, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9956874&casa_token=-Tp9JpW764gAAAAA:NkiBmmnJ3WHrxXjm5DeEFFXna8haxfiG52I5pWptORdbvSeU2vVZtDl8Y95jbkiIJYnSk2ql)] [[Code](https://github.com/megvii-research/BasesHomo)]
-  - keyword: unsupervised homography estimation;
+  - keyword: unsupervised homography estimation
 - ![paper](https://img.shields.io/badge/Dataset-red)![page](https://img.shields.io/badge/Pretrain-model-blue) Supervised Homography Learning with Realistic Dataset Generation, `ICCV`. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Supervised_Homography_Learning_with_Realistic_Dataset_Generation_ICCV_2023_paper.pdf)] [[Code](https://github.com/JianghaiSCU/RealSH)]
   - keyword: realistic dataset generation;
 - ![paper](https://img.shields.io/badge/Dataset-red)![page](https://img.shields.io/badge/Pretrain-model-blue) Semi-supervised Deep Large-Baseline Homography Estimation with Progressive Equivalence Constraint, `AAAI`. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/25183/24955)] [[Code](https://github.com/megvii-research/LBHomo)]
@@ -88,22 +88,22 @@ There are some similar repositories available, but it appears that they have not
 
 - ![paper](https://img.shields.io/badge/Dataset-red) Deep homography estimation for dynamic scenes, `CVPR`. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Le_Deep_Homography_Estimation_for_Dynamic_Scenes_CVPR_2020_paper.pdf)] [[Code](https://github.com/lcmhoang/hmg-dynamics)]
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) Content-aware unsupervised deep homography estimation, `ECCV`. [[Paper](https://arxiv.org/pdf/1909.05983)] [[Code](https://github.com/JirongZhang/DeepHomography)]
-  - keyword: small baseline dataset(CA-Unsupervised dataset);
+  - keyword: small baseline dataset(CA-Unsupervised dataset)
 - Homography Estimation with Convolutional Neural Networks Under Conditions of Variance, `arXiv`. [[Paper](https://arxiv.org/pdf/2010.01041)]
 - Robust Homography Estimation via Dual Principal Component Pursuit, `CVPR`. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Robust_Homography_Estimation_via_Dual_Principal_Component_Pursuit_CVPR_2020_paper.pdf)]
 - Self-supervised deep homography estimation with invertibility constraints, `PRL`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865519302673)]
-- **SRHEN**: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondences in Deep Latent Space, `MM`. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413870)]
-- **CorNet**: Unsuper vised Deep Homography Estimation for Agricultural Aerial Imagery, `ECCV`. [[Paper](https://drive.google.com/file/d/1I6tpiodsdsnmt1g9P_cFdxFp7HN-O7UT/view)]
+- SRHEN: Stepwise-Refining Homography Estimation Network via Parsing Geometric Correspondences in Deep Latent Space, `MM`. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413870)]
+- CorNet: Unsupervised Deep Homography Estimation for Agricultural Aerial Imagery, `ECCV`. [[Paper](https://drive.google.com/file/d/1I6tpiodsdsnmt1g9P_cFdxFp7HN-O7UT/view)]
 
 #### 2019
 
-- **STN-Homography**: Direct estimation of homography parameters for image pairs, `Applied Sciences`. [[Paper](https://www.mdpi.com/2076-3417/9/23/5187)]
+- STN-Homography: Direct estimation of homography parameters for image pairs, `Applied Sciences`. [[Paper](https://www.mdpi.com/2076-3417/9/23/5187)]
 - Homography Estimation Based on Error Elliptical Distribution, `ICASSP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8682180)]
 
 #### 2018
 
-- **Unsupervised deep homography**: A fast and robust homography estimation model, `RAL`. [[Paper](https://ieeexplore.ieee.org/document/8302515)] [[Unofficial_Code1]()]
-  - Keyword: unsupervised homography estimation;
+- Unsupervised deep homography: A fast and robust homography estimation model, `RAL`. [[Paper](https://ieeexplore.ieee.org/document/8302515)]
+  - Keyword: unsupervised homography estimation
 - Rethinking Planar Homography Estimation Using Perspective Fields, `ACCV`. [[Paper](https://eprints.qut.edu.au/126933/1/0654.pdf)] 
 
 #### 2017
@@ -112,7 +112,8 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2016
 
-- Deep image homography estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/1606.03798)] [[Unofficial_Code1](https://github.com/yishiliuhuasheng/deep_image_homography_estimation)] [[Unofficial_Code2](https://github.com/paeccher/Deep-Homography-Estimation-Pytorch)] **Keyword**: first learning-based supervised homography estimation method, realistic dataset generation
+- Deep image homography estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/1606.03798)] [[Unofficial_Code1](https://github.com/yishiliuhuasheng/deep_image_homography_estimation)] [[Unofficial_Code2](https://github.com/paeccher/Deep-Homography-Estimation-Pytorch)]
+  - Keyword: first learning-based supervised homography estimation method, realistic dataset generation
 
 #### 2014
 
