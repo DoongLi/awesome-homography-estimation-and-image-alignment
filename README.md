@@ -67,6 +67,7 @@ There are some similar repositories available, but it appears that they have not
 - Unsupervised deep homography with multi‐scale global attention, `IET Image Processing`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12842)]
 - Homography Estimation in Complex Topological Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2308.01086)]
 - Infrared and Visible Image Homography Estimation Based on Feature Correlation Transformers for Enhanced 6G Space–Air–Ground Integrated Network Perception, `Remote Sensing`. [[Paper](https://www.mdpi.com/2072-4292/15/14/3535)]
+- Geometrized transformer for self-supervised homography estimation, `ICCV`. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Geometrized_Transformer_for_Self-Supervised_Homography_Estimation_ICCV_2023_paper.pdf)] [[Code](https://github.com/ruc-aimc-lab/GeoFormer)]
 
 #### 2022
 
