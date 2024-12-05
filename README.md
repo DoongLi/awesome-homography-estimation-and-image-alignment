@@ -49,6 +49,7 @@ There are some similar repositories available, but it appears that they have not
 - A method of UAV image homography matrix estimation based on deep learning, `ICDIP`. [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13274/132740N/A-method-of-UAV-image-homography-matrix-estimation-based-on/10.1117/12.3037062.short)]
 - Image Registration Algorithm for Stamping Process Monitoring Based on Improved Unsupervised Homography Estimation, `Applied Sciences`. [[Paper](https://www.mdpi.com/2076-3417/14/17/7721)]
 - **HomoMatcher**: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/2411.06700)]
+- - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography With Video Coding, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10570492)] [[Code](https://github.com/liuyike422/CodingHomo)]
 
 #### 2023
 
