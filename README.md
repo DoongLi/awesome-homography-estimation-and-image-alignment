@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/0aaffd7c-8bf4-4b00-b8d8-69f70c3ccf04)# awesome-homography-estimation-and-image-alignment[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 This repo contains a curative list of **homography estimation, image alignment and related application**. 
 
 > Note: It is worth noting that this repository only focuses on homography estimation methods used for image alignment tasks. Methods for solving poses using homography estimation, such as those on the HPatches benchmarks, are not covered in this repository.
