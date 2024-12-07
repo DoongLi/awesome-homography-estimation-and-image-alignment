@@ -1,4 +1,4 @@
-# awesome-homography-estimation-and-image-alignment[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![image](https://github.com/user-attachments/assets/0aaffd7c-8bf4-4b00-b8d8-69f70c3ccf04)# awesome-homography-estimation-and-image-alignment[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This repo contains a curative list of **homography estimation, image alignment and related application**. 
 
@@ -49,7 +49,8 @@ There are some similar repositories available, but it appears that they have not
 - A method of UAV image homography matrix estimation based on deep learning, `ICDIP`. [[Paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13274/132740N/A-method-of-UAV-image-homography-matrix-estimation-based-on/10.1117/12.3037062.short)]
 - Image Registration Algorithm for Stamping Process Monitoring Based on Improved Unsupervised Homography Estimation, `Applied Sciences`. [[Paper](https://www.mdpi.com/2076-3417/14/17/7721)]
 - **HomoMatcher**: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/2411.06700)]
-- - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography With Video Coding, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10570492)] [[Code](https://github.com/liuyike422/CodingHomo)]
+- ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography With Video Coding, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10570492)] [[Code](https://github.com/liuyike422/CodingHomo)]
+- Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10772056)] [[Code](https://github.com/megvii-research/HomoGAN)]
 
 #### 2023
 
