@@ -52,6 +52,7 @@ There are some similar repositories available, but it appears that they have not
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography With Video Coding, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10570492)] [[Code](https://github.com/liuyike422/CodingHomo)]
 - Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10772056)] [[Code](https://github.com/megvii-research/HomoGAN)]
 - SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.06352)]
+- Uncertainty Guided Deep Lucas-Kanade Homography for Multimodal Image Alignment, `TGRS`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10816136/authors#authors)]
 
 #### 2023
 
