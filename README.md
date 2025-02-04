@@ -27,6 +27,10 @@ There are some similar repositories available, but it appears that they have not
 - A Review of Homography Estimation: Advances and Challenges, `Electronics`, *2023*. [[Paper](https://www.mdpi.com/2079-9292/12/24/4977)]
 - Research on Homography Estimation Method Based on Deep Learning, `International Conference on Computational & Experimental Engineering and Sciences`, *2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-68775-4_46)]
 
+#### 2025
+
+- ![paper](https://img.shields.io/badge/Dataset-red) UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization, `ICRA`. [[Paper](https://arxiv.org/pdf/2502.01035)] [[Code](https://github.com/arplaboratory/UASTHN)] [[Website](https://xjh19971.github.io/UASTHN/)]
+
 #### 2024
 
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) DMHomo: Learning Homography with Diffusion Models, `ToG`. [[Paper](https://dl.acm.org/doi/full/10.1145/3652207)] [[Code](https://github.com/lhaippp/DMHomo)]
