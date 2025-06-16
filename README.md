@@ -30,7 +30,8 @@ There are some similar repositories available, but it appears that they have not
 #### 2025
 
 - ![paper](https://img.shields.io/badge/Dataset-red) UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization, `ICRA`. [[Paper](https://arxiv.org/pdf/2502.01035)] [[Code](https://github.com/arplaboratory/UASTHN)] [[Website](https://xjh19971.github.io/UASTHN/)]
-- ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography with Video Coding, `TCSVT`. [[Paper](https://arxiv.org/pdf/2504.12165)] [[Code](https://github.com/liuyike422/CodingHomo)] 
+- ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography with Video Coding, `TCSVT`. [[Paper](https://arxiv.org/pdf/2504.12165)] [[Code](https://github.com/liuyike422/CodingHomo)]
+- An Iterative Deep Homography Network Based on Correlation Content Calculation for High-Precision Image Registration of Fly-Capture Imaging System, `TIM`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11030743)]
 
 #### 2024
 
