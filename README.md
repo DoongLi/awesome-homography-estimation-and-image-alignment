@@ -59,6 +59,7 @@ There are some similar repositories available, but it appears that they have not
 - Unsupervised Global and Local Homography Estimation with Coplanarity-Aware GAN, `TPAMI`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10772056)] [[Code](https://github.com/megvii-research/HomoGAN)]
 - SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.06352)]
 - Uncertainty Guided Deep Lucas-Kanade Homography for Multimodal Image Alignment, `TGRS`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10816136/authors#authors)]
+- Semantic-aware Representation Learning for Homography Estimation, `MM`. [[Paper](https://arxiv.org/pdf/2407.13284)] [[Code](https://github.com/lyh200095/SRMatcher)]
 
 #### 2023
 
