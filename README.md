@@ -33,6 +33,7 @@ There are some similar repositories available, but it appears that they have not
 - ![paper](https://img.shields.io/badge/Dataset-red) ![page](https://img.shields.io/badge/Pretrain-model-blue) CodingHomo: Bootstrapping Deep Homography with Video Coding, `TCSVT`. [[Paper](https://arxiv.org/pdf/2504.12165)] [[Code](https://github.com/liuyike422/CodingHomo)]
 - An Iterative Deep Homography Network Based on Correlation Content Calculation for High-Precision Image Registration of Fly-Capture Imaging System, `TIM`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11030743)]
 - Robust Image Stitching with Optimal Plane, `arXiv`. [[Paper](https://arxiv.org/pdf/2508.05903)] [[Code](https://github.com/MmelodYy/RopStitch)]
+- Uncertainty-adaptive Volume for Unsupervised Homography Estimation, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11201867)]
 
 #### 2024
 
@@ -178,4 +179,5 @@ There are some similar repositories available, but it appears that they have not
 | 2022 | `Symposium on Applied Computing` | [Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045) |                                                              |
 | 2021 |             `arXiv`              | [Weather GAN: Multi-Domain Weather Translation Using Generative Adversarial Networks](https://arxiv.org/pdf/2103.05422) |                                                              |
 | 2021 |              `CVPR`              | [Deep homography for efficient stereo image compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf) |        [Code](https://github.com/ywz978020607/HESIC)         |
+
 
