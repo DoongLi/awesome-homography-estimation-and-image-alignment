@@ -36,6 +36,7 @@ There are some similar repositories available, but it appears that they have not
 - Uncertainty-adaptive Volume for Unsupervised Homography Estimation, `TCSVT`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11201867)]
 - Image Stitching in Adverse Condition: A Bidirectional-Consistency Learning Framework and Benchmark, `NIPS`. [[Paper](https://openreview.net/pdf?id=l1n22nHG4A)] [[Code](https://github.com/ZengxiZhang/ACDIS)]
 - Aerial Image Stitching Using IMU Data from a UAV, `arXiv`. [[Paper](https://arxiv.org/pdf/2511.06841)]
+- UAV image stitching method based on dual feature guidance and optimal seam, `Knowledge-Based Systems`. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501929X)]
 
 #### 2024
 
@@ -181,6 +182,7 @@ There are some similar repositories available, but it appears that they have not
 | 2022 | `Symposium on Applied Computing` | [Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045) |                                                              |
 | 2021 |             `arXiv`              | [Weather GAN: Multi-Domain Weather Translation Using Generative Adversarial Networks](https://arxiv.org/pdf/2103.05422) |                                                              |
 | 2021 |              `CVPR`              | [Deep homography for efficient stereo image compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf) |        [Code](https://github.com/ywz978020607/HESIC)         |
+
 
 
 
