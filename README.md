@@ -27,6 +27,10 @@ There are some similar repositories available, but it appears that they have not
 - A Review of Homography Estimation: Advances and Challenges, `Electronics`, *2023*. [[Paper](https://www.mdpi.com/2079-9292/12/24/4977)]
 - Research on Homography Estimation Method Based on Deep Learning, `International Conference on Computational & Experimental Engineering and Sciences`, *2024*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-68775-4_46)]
 
+### 2026
+- HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps, `arXiv`. [[Paper](https://arxiv.org/pdf/2601.02730)
+
+
 #### 2025
 
 - ![paper](https://img.shields.io/badge/Dataset-red) UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization, `ICRA`. [[Paper](https://arxiv.org/pdf/2502.01035)] [[Code](https://github.com/arplaboratory/UASTHN)] [[Website](https://xjh19971.github.io/UASTHN/)]
@@ -38,6 +42,7 @@ There are some similar repositories available, but it appears that they have not
 - Aerial Image Stitching Using IMU Data from a UAV, `arXiv`. [[Paper](https://arxiv.org/pdf/2511.06841)]
 - UAV image stitching method based on dual feature guidance and optimal seam, `Knowledge-Based Systems`. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501929X)]
 - ShelfRectNet: Single View Shelf Image Rectification with Homography Estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/2511.20335)]
+- Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation, `arXiv`. [[Paper](https://arxiv.org/pdf/2512.17040)]
 
 
 #### 2024
@@ -184,6 +189,7 @@ There are some similar repositories available, but it appears that they have not
 | 2022 | `Symposium on Applied Computing` | [Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045) |                                                              |
 | 2021 |             `arXiv`              | [Weather GAN: Multi-Domain Weather Translation Using Generative Adversarial Networks](https://arxiv.org/pdf/2103.05422) |                                                              |
 | 2021 |              `CVPR`              | [Deep homography for efficient stereo image compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf) |        [Code](https://github.com/ywz978020607/HESIC)         |
+
 
 
 
