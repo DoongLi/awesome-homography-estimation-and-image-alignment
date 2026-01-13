@@ -43,6 +43,7 @@ There are some similar repositories available, but it appears that they have not
 - UAV image stitching method based on dual feature guidance and optimal seam, `Knowledge-Based Systems`. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512501929X)]
 - ShelfRectNet: Single View Shelf Image Rectification with Homography Estimation, `arXiv`. [[Paper](https://arxiv.org/pdf/2511.20335)]
 - Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation, `arXiv`. [[Paper](https://arxiv.org/pdf/2512.17040)]
+- Simulator HC: Regression-based Online Simulation of Starting Problem-Solution Pairs for Homotopy Continuation in Geometric Vision, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Simulator_HC_Regression-based_Online_Simulation_of_Starting_Problem-Solution_Pairs_for_CVPR_2025_paper.pdf)] [[Code](https://github.com/XinnnyueZhang/simulatorHC)]
 
 
 #### 2024
@@ -189,6 +190,7 @@ There are some similar repositories available, but it appears that they have not
 | 2022 | `Symposium on Applied Computing` | [Semi-Supervised Learning for Image Alignment in Teach and Repeat navigation](https://dl.acm.org/doi/pdf/10.1145/3477314.3507045) |                                                              |
 | 2021 |             `arXiv`              | [Weather GAN: Multi-Domain Weather Translation Using Generative Adversarial Networks](https://arxiv.org/pdf/2103.05422) |                                                              |
 | 2021 |              `CVPR`              | [Deep homography for efficient stereo image compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf) |        [Code](https://github.com/ywz978020607/HESIC)         |
+
 
 
 
